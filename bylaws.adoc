@@ -34,9 +34,9 @@ The _Executive Committee_, as outlined in the Constitution, will be required to 
 Such event must take place on the ninety-first (91st) day of the year, regardless of the day of the week, except during bissextile years as prescribed in Article III, Section 2, in which case, the event takes place on the ninety-second (92nd) day of the year.
 This event will henceforth be referred to as the _Nonagesimo Primo Die Celebrationis_, including during bissextile years.
 
-During the _Nonagesimo Primo Die Celebrationis_, all channels on the Chamber Choir workspace in the Georgia Institute of Technology Slack Enterprise grid shall be renamed to "pap-f24".
+During the _Nonagesimo Primo Die Celebrationis_, all channels on the Chamber Choir workspace in the Georgia Institute of Technology Slack Enterprise grid shall be renamed to "pap-s25".
 After the _Nonagesimo Primo Die Celebrationis_ ends, all channels' names shall be reverted to their original names prior to the _Nonagesimo Primo Die Celebrationis_.
-Until such time as Slack releases its users from the barbaric rule banning duplicate titles for channels, each channel shall be named to a unique variation on "pap-f24", following the construction rules defined in Article III, Section 3.
+Until such time as Slack releases its users from the barbaric rule banning duplicate titles for channels, each channel shall be named to a unique variation on "pap-s25", following the construction rules defined in Article III, Section 3.
 
 === Section 2: Bissextile Years
 
