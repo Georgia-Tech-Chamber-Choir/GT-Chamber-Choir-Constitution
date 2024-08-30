@@ -74,16 +74,16 @@ Valid sequences for _F_ are:
 
 Valid sequences for _N_ are:
 
-* `U+0032` `U+0034` (2: Digit Two, 4: Digit Four),
-* `U+0078` `U+0078` `U+0069` `U+0076` (x: Latin Small Letter X, x: Latin Small Letter X, i: Latin Small Letter I, v: Latin Small Letter V),
-* `U+0078` `U+0078` `U+2173` (x: Latin Small Letter X, x: Latin Small Letter X, ⅳ: Small Roman Numeral Four),
-* `U+0078` `U+2179` `U+0069` `U+0076` (x: Latin Small Letter X, ⅹ: Small Roman Numeral Ten, i: Latin Small Letter I, v: Latin Small Letter V),
-* `U+0078` `U+2179` `U+2173` (x: Latin Small Letter X, ⅹ: Small Roman Numeral Ten, ⅳ: Small Roman Numeral Four),
-* `U+2179` `U+0078` `U+0069` `U+0076` (ⅹ: Small Roman Numeral Ten, x: Latin Small Letter X, i: Latin Small Letter I, v: Latin Small Letter V),
-* `U+2179` `U+0078` `U+2173` (ⅹ: Small Roman Numeral Ten, x: Latin Small Letter X, ⅳ: Small Roman Numeral Four),
-* `U+2179` `U+2179` `U+0069` `U+0076` (ⅹ: Small Roman Numeral Ten, ⅹ: Small Roman Numeral Ten, i: Latin Small Letter I, v: Latin Small Letter V),
-* `U+2179` `U+2179` `U+2173` (ⅹ: Small Roman Numeral Ten, ⅹ: Small Roman Numeral Ten, ⅳ: Small Roman Numeral Four), and
-* `U+218A` `U+0034` (↊: Turned Digit Two, 4: Digit Four).
+* `U+0032` `U+0035` (2: Digit Two, 5: Digit Five),
+* `U+0078` `U+0078` `U+0076` (x: Latin Small Letter X, x: Latin Small Letter X, v: Latin Small Letter V),
+* `U+0078` `U+0078` `U+2174` (x: Latin Small Letter X, x: Latin Small Letter X, ⅴ: Small Roman Numeral Five),
+* `U+0078` `U+2179` `U+0076` (x: Latin Small Letter X, ⅹ: Small Roman Numeral Ten, v: Latin Small Letter V),
+* `U+0078` `U+2179` `U+2174` (x: Latin Small Letter X, ⅹ: Small Roman Numeral Ten, ⅴ: Small Roman Numeral Four),
+* `U+2179` `U+0078` `U+0076` (ⅹ: Small Roman Numeral Ten, x: Latin Small Letter X, v: Latin Small Letter V),
+* `U+2179` `U+0078` `U+2174` (ⅹ: Small Roman Numeral Ten, x: Latin Small Letter X, ⅴ: Small Roman Numeral Four),
+* `U+2179` `U+2179` `U+0076` (ⅹ: Small Roman Numeral Ten, ⅹ: Small Roman Numeral Ten, v: Latin Small Letter V),
+* `U+2179` `U+2179` `U+2174` (ⅹ: Small Roman Numeral Ten, ⅹ: Small Roman Numeral Ten, ⅴ: Small Roman Numeral Four), and
+* `U+218A` `U+0035` (↊: Turned Digit Two, 5: Digit Five).
 
 Concatenation of strings shall be done in a manner identical to the effect of the string concatenation operation in a general-purpose programming language with the namesake of an animal.
 At the time of writing, the recommended reference operation is that of `''.join(strings)` in the Python 3.12 programming language.
