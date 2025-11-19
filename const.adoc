@@ -45,7 +45,9 @@ and to aid in presenting to the public a complimentary image of the Institute.
   These officers will be known as the _Executive Committee_.
   Each officer position will be filled by only one member of Chamber.
 . The {pres} is required to have been a member of Chamber for at least three semesters before being eligible for office.
-  The {evp}, {ivp}, {fm}, {manager}, and {pub} are required to have been a member of Chamber for at least one semester, and a member of the GT Choir program for at least two semesters before being eligible for office.
+  The {evp}, {ivp}, {fm}, {manager}, and {pub} are required to have been a member of Chamber for at least one semester.
+  The {evp}, {ivp}, and {fm} are required to have been a member of the GT Choir program for at least two semesters before being eligible for office.
+  {manager} and {pub} are required to have been a member of the GT Choir program for at least one semester before being eligible for office.
   If no interested members meet these criteria, nominations will be open to the floor.
 . The term of all officers shall be one year, beginning on the last day of the Spring semester.
   The {pres} is required to commit to the full term.
